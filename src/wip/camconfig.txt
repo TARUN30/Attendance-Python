@@ -1,0 +1,4 @@
+[cam-config]
+camcode = 0
+admin_cam = 0
+ipcam = rtsp://admin:admin@172.20.10.7:1935/
